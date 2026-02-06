@@ -5,3 +5,5 @@ __pycache__/
 .idea/
 bot.log
 *.tmp
+data/users.json
+data/journal.json
